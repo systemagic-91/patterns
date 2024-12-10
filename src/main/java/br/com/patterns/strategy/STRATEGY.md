@@ -172,3 +172,5 @@ Importante lembrar que o Strategy **NÃO RESOLVE PROBLEMAS DE IF's**. Ele resolv
 * **SRP**: Separa o comportamento em classes diferentes, deixando cada uma com uma única responsabilidade.
 
 No **Strategy** o uso dos `if's` não é elimidado eles são jogados para uma camada acima.
+
+Video: [Padrão de Projeto Strategy](https://youtu.be/DzlXwgsc_AU?si=G8As_bALDy2TuHog)
